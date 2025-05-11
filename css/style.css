@@ -1,0 +1,16 @@
+body{
+    background-image:url(https://img.freepik.com/photos-premium/modele-banniere-vectorielle-pour-basket-ball-tennis-volley-ball_575980-56577.jpg) ;
+    background-size: cover;
+}
+video{
+    width: 400px;
+}
+audio{
+    width: 100%;
+}
+table, th, td{
+    border: 2px burlywood;
+}
+table {
+    width: 800px;
+}
